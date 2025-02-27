@@ -1,0 +1,2 @@
+use inder;
+show tables;
