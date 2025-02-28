@@ -15,4 +15,4 @@ To use the SQL scripts in this repository, you'll need:
 
 1. **Clone the Repository**:
    ```sh
-   git clone https://github.com/yourusername/your-repository-name.git
+   git clone https://github.com/yourusername/SQL-Database.git
